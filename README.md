@@ -1,12 +1,18 @@
----
-
 ## 🚀 About Me
 
-I am a **Computer Science Engineering student (B.Tech, Third Year)** with a strong focus on building a career as a **Data Analyst**. While I have explored web development and programming, my primary interest lies in **data analytics, data visualization, and business insights**.
+Hi, I'm Aayush 👋  
+A Computer Science Engineering student passionate about Data Analytics, Business Intelligence, Machine Learning, and AI-driven solutions.
 
-I actively work on improving my analytical skills using tools like **SQL and Power BI**, and I enjoy converting raw data into clear, meaningful insights that support decision-making.
+I enjoy building real-world projects using Python, SQL, Power BI, and modern data technologies to solve analytical and business problems through data-driven insights.
 
-I have also published a **Military UAV Drone research paper** during my Diploma, reflecting my experience in applied engineering and research-based projects.
+### 🌱 Currently Exploring
+- Data Analytics & Visualization
+- Machine Learning & Predictive Analytics
+- Cloud Computing with AWS
+- Business Intelligence Solutions
+- AI-powered Applications
+
+Always learning, building, and improving through hands-on projects and experimentation.
 
 ---
 
